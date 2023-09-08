@@ -68,7 +68,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat-square&logo=Tableau)
 ![Pandas Badge](https://img.shields.io/badge/Pandas-000000?logo=pandas&style=flat-square&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
-
+![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=white)
 
 
 ### Tools & Platforms:- 
