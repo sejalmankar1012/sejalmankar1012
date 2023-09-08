@@ -105,65 +105,6 @@ Data Visualization, Tableau, Pipeline.
 
 <br>
 
-## My Projects <img src="https://slackmojis.com/emojis/5948-bongo_blob/download" width="25">
-
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>🤖 Colab</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-	</thead>
-  <tbody>
-      <td><a href="https://github.com/udaylunawat/Whats-this-rock"><b>What's this Rock - Telegram</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/1N1CIqdOKlJSJla5PU53Yn9KWSao47eMv?usp=sharing"><b>Run & Deploy</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/udaylunawat/Whats-this-rock?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/udaylunawat/Whats-this-rock?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/udaylunawat/Whats-this-rock?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/udaylunawat/Whats-this-rock?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition"><b>Indian ALPR System - GCP</b></a></td>
-      <td><a href="https://colab.research.google.com/drive/1BqegosjfXthG1v9p3TUVnfvkvMxAOC5g#scrollTo=LUUvnvqrvFy3"><b>Run & Deploy</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/udaylunawat/Automatic-License-Plate-Recognition?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-	<td><a href="https://github.com/udaylunawat/Covid-19-Radiology"><b>Covid-19 Classifier & Dashboard</b></a></td>
-	<td><a href="https://colab.research.google.com/drive/1dNvFgDjxiu_Ziu_oVn63uYgrc-OJ9uvE"><b>Run & Deploy</b></a></td>
-	<td><img alt="Stars" src="https://img.shields.io/github/stars/udaylunawat/Covid-19-Radiology?style=flat-square&labelColor=343b41"/></td>
-	<td><img alt="Forks" src="https://img.shields.io/github/forks/udaylunawat/Covid-19-Radiology?style=flat-square&labelColor=343b41"/></td>
-      	<td><img alt="Issues" src="https://img.shields.io/github/issues/udaylunawat/Covid-19-Radiology?style=flat-square&labelColor=343b41"/></td>
-      	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/udaylunawat/Covid-19-Radiology?style=flat-square&labelColor=343b41"/>
-<!-- 	<td align="center" colspan="4">Currently set as Private</td> -->
-    </tr>
-    <tr>
-      <td><a><b>Manufacturing Analytics Automation with Tableau</b></a></td>
-      <td align="center" colspan="5">Currently set as Private</td>
-    <tr>
-  </tbody>
-</table>
-
-<br>
-
-## My latest projects <img src="https://slackmojis.com/emojis/4246-blob-sunglasses/download" width="25">
-
-<ul>
-  <li><a href="https://github.com/udaylunawat/Whats-this-rock" width="20" alt="new"><b>Whats-this-Rock</b></b></a><br/><i>An Image Classification pipeline for identifying rocks deployed as a Telegram Bot</i></li>
-</ul>
-<ul>
-  <li><a href="https://github.com/udaylunawat/Automatic-License-Plate-Recognition" width="20" alt="new"><b>ALPR-India</b></b></a><br/><i>An end-end Deep Learning ALPR project on which you can play around with opencv morphological options and OCR</i></li>
-</ul>
-<ul>
-  <li><a href="https://colab.research.google.com/drive/1dNvFgDjxiu_Ziu_oVn63uYgrc-OJ9uvE" width="20" alt="new"><b>Covid-19 Classifier & Dashboard</b></b></a><br/><i>An end-end Deep Learning based Covid-19 CT-scan Classification project with 97% accuracy and live Dashboard.</i></li>
-</ul>
-<br>
 
 ## How to reach me 📱
 
@@ -171,40 +112,28 @@ Data Visualization, Tableau, Pipeline.
   <tr>
     <td>
       
-Known on the internet as [udaylunawat](https://www.google.com/search?q=udaylunawat)
+Known on the internet as [sejal_mankar](https://www.google.com/search?q=sejal_mankar)
 
-[![Stack OverFlow](http://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=stackoverflow&logoColor=ffffff&link=https://stackoverflow.com/users/12069905/dracarys3)](https://stackoverflow.com/users/9292995/dracarys3)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uday-lunawat)](https://www.linkedin.com/in/uday-lunawat/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashrajjain726@gmail.com)](mailto:udaylunawat@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/yashrajjain726)](https://github.com/udaylunawat)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-181717?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/7887576672)](https://wa.me/7887576672)
-[![Skype](https://img.shields.io/badge/-Skype-181717?style=flat-square&logo=skype&logoColor=white&link=https://join.skype.com/invite/Xxhxebkfcp00)](https://join.skype.com/invite/Xxhxebkfcp00)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sejal_mankar)](https://www.linkedin.com/in/sejal-mankar-270664226/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yashrajjain726@gmail.com)](mailto:sejalmankar444@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/yashrajjain726)](https://github.com/sejalmankar1012)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-181717?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/9370124045)](https://wa.me/9370124045)
 
 <!-- [<img src="https://img.icons8.com/windows/64/000000/medium-logo.png"/>](https://medium.com/@udaylunawat) -->
 
  </td>   
      <td>
-     <img align='right' src="https://github-readme-stats.vercel.app/api?username=udaylunawat&show_icons=true&hide=&hide_border=true&theme=tokyonight">
+     <img align='right' src="https://github-readme-stats.vercel.app/api?username=sejalmankar1012&show_icons=true&hide=&hide_border=true&theme=tokyonight">
      </td>
    </tr>
 </table>
 
 <br>
 
-## 😄 Know More About Me:
 
-<li> Visit to see my education, experience, projects, certifications, achievements and testimonials of my clients
-<li> 🔖 Discover more about me at my <a href="https://udaylunawat.github.io/" target="_blank">Website</a><br/>
-<li> 💼 Hire Me <a href="https://drive.google.com/file/d/1jSjWpbP0bRVNfNi4Us_XC5bQQh-b7oSM/view?usp=sharing" target="_blank">Resume</a><br/>
-<br>
-
-## Watch my contribution graph eaten by the snake🐍
-<p>
-  <img src="https://github.com/udaylunawat/udaylunawat/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
 
 <div align="center">
 <h2> Show some ❤️ by starring some of the repositories! </h2>
 </div>
-<div align="center">👀<img src="https://visitor-badge.laobi.icu/badge?page_id=udaylunawat.visitor-badge&title=This_Page_Has" alt="visitor badge"/> Visitors. Wow! </div>
+
 
