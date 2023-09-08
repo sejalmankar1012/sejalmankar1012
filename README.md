@@ -63,7 +63,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 ### Languages:-
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
-
+![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=Java)
 ### Data Analysis:-
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat-square&logo=Tableau)
 ![Pandas Badge](https://img.shields.io/badge/Pandas-000000?logo=pandas&style=flat-square&logoColor=white)
@@ -89,7 +89,7 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 ![Windows Badge](https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=white)
 
-<!--**Languages:** Python, SQL.
+<!--**Languages:** Python, SQL, Java.
 
 **Libraries & Tools:** Google Cloud Platform, TensorFlow,  
 Keras, PyTorch, Streamlit, NumPy, Pandas, Scikit-Learn, Tableau,  
