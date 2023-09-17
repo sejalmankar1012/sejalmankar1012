@@ -38,7 +38,7 @@
 
 <img alt="Coder GIF" src="https://github.com/udaylunawat/udaylunawat/blob/master/img/giphy.gif" height="300" width="200" align="right"/>
 
-I am a Machine learning and Data Science practitioner who loves to uncover the hidden facts and meaningful insights from messy data. I'm a Machine Learning Engineer graduate from AAIC (Applied AI Course) where I learned building effective Machine Learning & Deep Learning Model, running Data Pipelines, Natural Language Processing, Image Processing, building Recommendation Systems, and deploying solutions to the cloud.
+I am a Machine learning and Data Science practitioner who loves to uncover the hidden facts and meaningful insights from messy data.I learned building effective Machine Learning & Deep Learning Model, running Data Pipelines, Natural Language Processing, Image Processing, building Recommendation Systems, and deploying solutions to the cloud.
 
 Iam undergrauate in Computer Science Engineering from <a href="https://prmceam.ac.in/" target="_blank">**PRMCEAM**</a>, Badnera-Amravati &  I am working on Machine Learning Engineer where I am learning new things in Data Science and implementing them in various projects.
 
