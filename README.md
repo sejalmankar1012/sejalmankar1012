@@ -62,13 +62,18 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 ### Languages:-
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
-![MySQL Badge](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=Java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=Csharp&logoColor=white)
+
 ### Data Analysis:-
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat-square&logo=Tableau)
-![Pandas Badge](https://img.shields.io/badge/Pandas-000000?logo=pandas&style=flat-square&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-000000?logo=pandas&style=flat-square&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
 ![NumPy](https://img.shields.io/badge/-NumPy-000000?style=flat-square&logo=numpy&logoColor=white)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-000000?style=flat-square&logo=Plotly&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-000000?style=flat-square&logo=MicrosoftExcel&logoColor=white)
 
 
 ### Tools & Platforms:- 
@@ -89,11 +94,11 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 ![Windows Badge](https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=white)
 
-<!--**Languages:** Python, SQL, Java.
+<!--**Languages:** Python, SQL, Java, C#.
 
 **Libraries & Tools:** Google Cloud Platform, TensorFlow,  
 Keras, PyTorch, Streamlit, NumPy, Pandas, Scikit-Learn, Tableau,  
-Matplotlib, NLTK, Plotly.
+Matplotlib, NLTK, Plotly, Scipy, Seaborn, OpenCV.
 
 **Data Analysis:** Exploratory Data Analysis, Natural Language Processing,  
 Computer Vision, Model Development. 
