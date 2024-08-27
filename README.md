@@ -89,6 +89,8 @@ I am working towards a role where I can engage with a group of like-minded peopl
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=C%2B%2B&)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000000?style=flat-square&logo=scikit-learn&logoColor=white)
 ![NLTK](https://img.shields.io/badge/-NLTK-000000?style=flat-square&logo=python&logoColor=white)
+![Generative AI](https://img.shields.io/badge/-Generative%20AI-000000?style=flat-square&logo=generative-ai&logoColor=white)
+
 
 ## Dev Environment:
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visual-studio-code)
