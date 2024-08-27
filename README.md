@@ -60,13 +60,16 @@ I am working towards a role where I can engage with a group of like-minded peopl
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300" align="right"/>
 
-### Languages:-
+# Data Science and Machine Learning Skills
+
+## Languages:
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=Python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=MicrosoftSQLServer&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=Java&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat-square&logo=Csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript&logoColor=white)
 
-### Data Analysis:-
+## Data Analysis:
 ![Tableau](https://img.shields.io/badge/-Tableau-000000?style=flat-square&logo=Tableau)
 ![Pandas](https://img.shields.io/badge/-Pandas-000000?logo=pandas&style=flat-square&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
@@ -74,9 +77,9 @@ I am working towards a role where I can engage with a group of like-minded peopl
 ![Seaborn](https://img.shields.io/badge/-Seaborn-000000?style=flat-square&logoColor=white)
 ![Plotly](https://img.shields.io/badge/-Plotly-000000?style=flat-square&logo=Plotly&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-000000?style=flat-square&logo=MicrosoftExcel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-000000?style=flat-square&logo=PowerBI&logoColor=white)
 
-
-### Tools & Platforms:- 
+## Tools & Platforms:
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker)
 ![Google Cloud Badge](https://img.shields.io/badge/-Google_Cloud_Platform-000000?style=flat-square&logo=google-cloud&logoColor=white)
 ![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-000000?logo=tensorflow&style=flat-square)
@@ -84,15 +87,19 @@ I am working towards a role where I can engage with a group of like-minded peopl
 ![PyTorch Badge](https://img.shields.io/badge/PyTorch-000000?logo=pytorch&style=flat-square)
 ![Github Badge](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-000000?style=flat&logo=C%2B%2B&)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000000?style=flat-square&logo=scikit-learn&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-000000?style=flat-square&logo=python&logoColor=white)
 
-### Dev Environment:-
-
+## Dev Environment:
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visual-studio-code)
 ![Jupyter Badge](https://img.shields.io/badge/-Jupyter-000000?style=flat-square&logo=jupyter&logoColor=white)
 ![Git Badge](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
 ![Anaconda Badge](https://img.shields.io/badge/-Anaconda-000000?style=flat-square&logo=anaconda&logoColor=white)
+![Colab Badge](https://img.shields.io/badge/-Google%20Colab-000000?style=flat-square&logo=google-colab&logoColor=white)
 
+## Operating Systems:
 ![Windows Badge](https://img.shields.io/badge/Windows-000000?style=flat-square&logo=windows&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
 <!--**Languages:** Python, SQL, Java, C#.
 
